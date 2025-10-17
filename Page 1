@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>Web Basics Project</title>
+	<meta name="description" content="Dyketactics! Research">
+	<meta name="keywords" content="HTML,CSS,webpage">
+	<meta name="author" content="Anastasia Branas">
+
+	<style>
+
+        #header {color: #626086;
+		font-size: 19px; 
+		font-family: Times New Roman, serif; 
+		text-align: center; 
+		border-radius: 5px; 
+		width: 100%; 
+		border-radius:5px;}
+
+        #footer {clear: left; 
+		border-bottom:5px; 
+		font-size: 7px;
+		font-family: "Times New Roman", serif;
+		border-radius: 5px;
+		text-align: center;}
+	
+	body {background-color: rgb(186, 177, 202); 
+		color: #0d1447;}
+
+	h2 {color: #322245; 
+		text-align: center;
+		margin-left: 16px;
+		font-size: 22px;}
+	</style> 
+</head>
+
+<body>
+	<h2>Hello and Welcome to My Web Basics Project!</h2>
+
+	<p> I currently work as an Archives Assistant for a Philadelphia-based production company, making a 10-episode series about Philly history from pre-European contact through present day. </p>
+
+
+	<p> In episode 9, there is mention of an activist group from the 1970s called Dyketactics!. The team had previously done some research, but this is not an area of expertise for the other people working on the project. Lucky for them, I not only love archival research, but I specifically love lesbian archival research! I am a born-and-raised Philadelphian and I am very proud of where I come from. There is nothing that I love more than local history, and within that local queer history. </p>
+
+	<p> My secret goal when moving to New York was to have a reason to do research at the Lesbian Herstory Archives, and this was the perfect opportunity. So I registered for a research appointment in October, and started getting to work. </p>
+
+	<img src="images/insideLHA.jpg" alt="Inside LHA" width="300"> 
+
+	<img src="images/LHAbookplate.jpg" alt="LHA bookplate" width="300"> 
+
+
+
+<footer>
+	<p class="copyright">&copy; <span id="2025"></span> 2025, Anastasia Branas, all rights reserved.</p>
+</footer>
+	
+</body>
+
+</html>
